@@ -1,0 +1,17 @@
+1. Crating Apllication using Asp.net core MVC and Rajor page
+   
+2. Logging in Core
+
+3. Configuration using option pattern 
+
+4. Hosting understand basices of hosting Inprocess and OutProcess server
+
+5. Dependency Injection Use of different service registration.
+
+OAuth 2.0 OpenId  
+Indentity framwork 4.0
+CQRS RabbitMQ
+
+Microservices and Domain driven design RabbitMQ
+
+Design patterns
